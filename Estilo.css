@@ -15,7 +15,7 @@ a::before{
 }
 
 li:first-child{
-    background-color: rgb(255, 192, 203);
+    background-color: rgb(255, 255, 0);
 }
 
 li:last-child{
@@ -23,7 +23,7 @@ li:last-child{
  }
 
  ul li:nth-child(odd){
-    border: 1px solid rgb(255, 255, 0);
+    border: 1px solid rgb(255, 192, 203);
  }
 
  abbr::after{
